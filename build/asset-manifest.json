@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/crgroup/static/css/main.cfa447a1.css",
+    "main.js": "/crgroup/static/js/main.4493ef64.js",
+    "static/js/453.d7d7cd15.chunk.js": "/crgroup/static/js/453.d7d7cd15.chunk.js",
+    "static/media/about_red.jpg": "/crgroup/static/media/about_red.7f67b88314eb82e4777d.jpg",
+    "index.html": "/crgroup/index.html",
+    "main.cfa447a1.css.map": "/crgroup/static/css/main.cfa447a1.css.map",
+    "main.4493ef64.js.map": "/crgroup/static/js/main.4493ef64.js.map",
+    "453.d7d7cd15.chunk.js.map": "/crgroup/static/js/453.d7d7cd15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfa447a1.css",
+    "static/js/main.4493ef64.js"
+  ]
+}
