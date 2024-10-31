@@ -1,0 +1,18 @@
+.category-option {
+    background-color: rgb(39, 49, 54);
+    font: 14px;
+    border: none;
+    color: lightgray;
+}
+
+.category-label {
+    font: 16px;
+    font-weight: bold;
+    color: black;
+    margin: 15px 10px 0 0;
+}
+
+#category {
+    padding: 5px;
+    border-radius: 6px;
+}

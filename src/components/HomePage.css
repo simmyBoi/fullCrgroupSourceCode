@@ -1,0 +1,35 @@
+body {
+    background-color: #28282B;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #28282B;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgb(0, 0, 0);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(0, 0, 0, 80%);
+}
+
+.header {
+    background-image: url("../../public/about_red.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 15px;
+}
+
+.reset-btn {
+    padding: 5px;
+    border: none;
+    border-radius: 8px;
+    background-color: #121212 !important;
+    color: lightgray;
+    margin-top: 15px;
+}

@@ -1,0 +1,43 @@
+.search-form {
+    text-align: right;
+}
+
+.search-bar {
+    padding: 5px;
+    border: none;
+    border-radius: 8px;
+    min-width: 300px;
+    margin-right: 10px;
+}
+
+.search-btn {
+    padding: 5px;
+    border: none;
+    border-radius: 8px;
+    background-color: #121212 !important;
+    color: lightgray;
+}
+
+.main-img {
+    max-width: 200px;
+    border-radius: 80px;
+    margin-bottom: 20px;
+}
+
+.arthur-div {
+    text-align: center;
+    padding: 40px 200px;
+}
+
+.about-header {
+    color: black;
+    margin: 25px;
+    font-weight: bold;
+}
+
+@media(max-width: 768px) {
+    .arthur-div {
+        text-align: center;
+        padding: 20px;
+    }
+}
